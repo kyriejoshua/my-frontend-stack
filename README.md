@@ -1,6 +1,6 @@
 ## 个人的技术栈整理
 
-![my-front-end](https://github.com/kyriejoshua/my-frontend-stack/blob/master/LICENSE)
+![my-frontend-stack](https://github.com/kyriejoshua/my-frontend-stack/blob/master/assets/frontend-stack.png)
 
 ### Requiements
 
