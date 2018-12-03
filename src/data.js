@@ -28,7 +28,7 @@ export const data = {
     name: "server",
     children: [{
       name: "nodejs",
-      value: 5
+      value: 5.5
     }, {
       name: "python",
       value: 1
@@ -56,7 +56,7 @@ export const data = {
         name: "react",
         children: [{
           name: "react",
-          value: 8
+          value: 8.5
         }, {
           name: "redux",
           value: 7
@@ -90,7 +90,7 @@ export const data = {
       name: "mobile",
       children: [{
         name: "react native",
-        value: 4
+        value: 6
       }, {
         name: "ionic",
         value: 3
